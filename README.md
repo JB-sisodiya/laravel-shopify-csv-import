@@ -152,8 +152,6 @@ Dashboard
 - Queue processing is used to prevent long-running HTTP requests.
 - Import continues even if individual rows fail.
 - All product import events are logged.
-- Image upload can be disabled using `SHOPIFY_IMPORT_IMAGES=false`.
-- Trial Shopify stores may restrict image uploads.
 
 ---
 
